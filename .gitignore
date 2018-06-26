@@ -1,0 +1,16 @@
+*.DS_store
+
+*.o
+*.output
+*.log
+*.stackdump
+*.tab.cpp
+*.tab.hpp
+*.yy.cpp
+bin/*
+tmp/*
+test_deliverable/bin/*
+test_deliverable/test_results.txt
+test_deliverable/asm/*
+
+c_compiler_internal-stdout-sterr.txt
