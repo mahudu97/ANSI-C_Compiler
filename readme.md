@@ -13,3 +13,14 @@ Overview
   
 In all cases, the source language is pre-processed C90. The target environment
 is Ubuntu 16.04.
+
+
+Compile
+========
+
+"make bin/c_compiler" - requires bison, flex and g++
+
+Using: bin/c_compiler -MODE [source-file.c] -o [dest-file.s]
+
+Mode "-o" - Compile
+Mode "--translate" - Translate to python - limited C support - refer to spec
