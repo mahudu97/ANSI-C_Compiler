@@ -1,13 +1,11 @@
 Overview
 ========
 
-- [*Test suite*](c_test_suite.md): Each submission must contain a set of test programs which 
-  are able to determine whether a given compiler implements certain C language
-  features correctly.
+- [*Test suite*] : Small tests intended to asses ability of Compiler.
+  10 of which were done as assessed coursework.
 
-- [*C-translator*](c_translator.md) : Your compiler will be able to translate a sub-set of C
-  into equivalent Python. This allows each submission to demonstrate lexing and
-  parsing functionality, even if the code generation is weak.
+- [*C-translator*](c_translator.md) : YTranslate a sub-set of C
+  into equivalent Python. Demonstrate lexing and parsing functionality.
 
 - [*C-compiler*](c_compiler.md) : This is a compiler from C to MIPS assembly.
   
